@@ -26,6 +26,7 @@ public class Bus {
 
     public static void main(String[] args){
         System.out.println("This is our first program");
+        System.out.println("this is the next printed line");
         /* System.out.println() is a method that is default to object
             that is used to print/output data on the console.
 
